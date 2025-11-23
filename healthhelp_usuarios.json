@@ -1,0 +1,302 @@
+[
+  {
+    "usuario_id": 1,
+    "nome": "Usuario 1",
+    "email": "usuario01@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1989-02-01",
+    "altura_cm": 161,
+    "peso_kg": 61,
+    "media_score_rotina": 55.7
+  },
+  {
+    "usuario_id": 2,
+    "nome": "Usuario 2",
+    "email": "usuario02@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1988-03-01",
+    "altura_cm": 162,
+    "peso_kg": 62,
+    "media_score_rotina": 56.4
+  },
+  {
+    "usuario_id": 3,
+    "nome": "Usuario 3",
+    "email": "usuario03@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1987-04-01",
+    "altura_cm": 163,
+    "peso_kg": 63,
+    "media_score_rotina": 57.1
+  },
+  {
+    "usuario_id": 4,
+    "nome": "Usuario 4",
+    "email": "usuario04@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1986-05-01",
+    "altura_cm": 164,
+    "peso_kg": 64,
+    "media_score_rotina": 57.8
+  },
+  {
+    "usuario_id": 5,
+    "nome": "Usuario 5",
+    "email": "usuario05@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1985-06-01",
+    "altura_cm": 165,
+    "peso_kg": 65,
+    "media_score_rotina": 58.5
+  },
+  {
+    "usuario_id": 6,
+    "nome": "Usuario 6",
+    "email": "usuario06@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1984-07-01",
+    "altura_cm": 166,
+    "peso_kg": 66,
+    "media_score_rotina": 59.2
+  },
+  {
+    "usuario_id": 7,
+    "nome": "Usuario 7",
+    "email": "usuario07@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1983-08-01",
+    "altura_cm": 167,
+    "peso_kg": 67,
+    "media_score_rotina": 59.9
+  },
+  {
+    "usuario_id": 8,
+    "nome": "Usuario 8",
+    "email": "usuario08@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1982-09-01",
+    "altura_cm": 168,
+    "peso_kg": 68,
+    "media_score_rotina": 60.6
+  },
+  {
+    "usuario_id": 9,
+    "nome": "Usuario 9",
+    "email": "usuario09@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1981-10-01",
+    "altura_cm": 169,
+    "peso_kg": 69,
+    "media_score_rotina": 61.3
+  },
+  {
+    "usuario_id": 10,
+    "nome": "Usuario 10",
+    "email": "usuario10@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1980-11-01",
+    "altura_cm": 160,
+    "peso_kg": 60,
+    "media_score_rotina": 62.0
+  },
+  {
+    "usuario_id": 11,
+    "nome": "Usuario 11",
+    "email": "usuario11@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1979-12-01",
+    "altura_cm": 161,
+    "peso_kg": 61,
+    "media_score_rotina": 62.7
+  },
+  {
+    "usuario_id": 12,
+    "nome": "Usuario 12",
+    "email": "usuario12@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1978-01-01",
+    "altura_cm": 162,
+    "peso_kg": 62,
+    "media_score_rotina": 63.4
+  },
+  {
+    "usuario_id": 13,
+    "nome": "Usuario 13",
+    "email": "usuario13@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1977-02-01",
+    "altura_cm": 163,
+    "peso_kg": 63,
+    "media_score_rotina": 64.1
+  },
+  {
+    "usuario_id": 14,
+    "nome": "Usuario 14",
+    "email": "usuario14@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1976-03-01",
+    "altura_cm": 164,
+    "peso_kg": 64,
+    "media_score_rotina": 64.8
+  },
+  {
+    "usuario_id": 15,
+    "nome": "Usuario 15",
+    "email": "usuario15@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1975-04-01",
+    "altura_cm": 165,
+    "peso_kg": 65,
+    "media_score_rotina": 65.5
+  },
+  {
+    "usuario_id": 16,
+    "nome": "Usuario 16",
+    "email": "usuario16@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1974-05-01",
+    "altura_cm": 166,
+    "peso_kg": 66,
+    "media_score_rotina": 66.2
+  },
+  {
+    "usuario_id": 17,
+    "nome": "Usuario 17",
+    "email": "usuario17@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1973-06-01",
+    "altura_cm": 167,
+    "peso_kg": 67,
+    "media_score_rotina": 66.9
+  },
+  {
+    "usuario_id": 18,
+    "nome": "Usuario 18",
+    "email": "usuario18@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1972-07-01",
+    "altura_cm": 168,
+    "peso_kg": 68,
+    "media_score_rotina": 67.6
+  },
+  {
+    "usuario_id": 19,
+    "nome": "Usuario 19",
+    "email": "usuario19@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1971-08-01",
+    "altura_cm": 169,
+    "peso_kg": 69,
+    "media_score_rotina": 68.3
+  },
+  {
+    "usuario_id": 20,
+    "nome": "Usuario 20",
+    "email": "usuario20@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1970-09-01",
+    "altura_cm": 160,
+    "peso_kg": 60,
+    "media_score_rotina": 69.0
+  },
+  {
+    "usuario_id": 21,
+    "nome": "Usuario 21",
+    "email": "usuario21@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1969-10-01",
+    "altura_cm": 161,
+    "peso_kg": 61,
+    "media_score_rotina": 69.7
+  },
+  {
+    "usuario_id": 22,
+    "nome": "Usuario 22",
+    "email": "usuario22@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1968-11-01",
+    "altura_cm": 162,
+    "peso_kg": 62,
+    "media_score_rotina": 70.4
+  },
+  {
+    "usuario_id": 23,
+    "nome": "Usuario 23",
+    "email": "usuario23@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1967-12-01",
+    "altura_cm": 163,
+    "peso_kg": 63,
+    "media_score_rotina": 71.1
+  },
+  {
+    "usuario_id": 24,
+    "nome": "Usuario 24",
+    "email": "usuario24@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1966-01-01",
+    "altura_cm": 164,
+    "peso_kg": 64,
+    "media_score_rotina": 71.8
+  },
+  {
+    "usuario_id": 25,
+    "nome": "Usuario 25",
+    "email": "usuario25@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1965-02-01",
+    "altura_cm": 165,
+    "peso_kg": 65,
+    "media_score_rotina": 72.5
+  },
+  {
+    "usuario_id": 26,
+    "nome": "Usuario 26",
+    "email": "usuario26@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1964-03-01",
+    "altura_cm": 166,
+    "peso_kg": 66,
+    "media_score_rotina": 73.2
+  },
+  {
+    "usuario_id": 27,
+    "nome": "Usuario 27",
+    "email": "usuario27@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1963-04-01",
+    "altura_cm": 167,
+    "peso_kg": 67,
+    "media_score_rotina": 73.9
+  },
+  {
+    "usuario_id": 28,
+    "nome": "Usuario 28",
+    "email": "usuario28@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1962-05-01",
+    "altura_cm": 168,
+    "peso_kg": 68,
+    "media_score_rotina": 74.6
+  },
+  {
+    "usuario_id": 29,
+    "nome": "Usuario 29",
+    "email": "usuario29@healthhelp.com",
+    "genero": "M",
+    "dt_nascimento": "1961-06-01",
+    "altura_cm": 169,
+    "peso_kg": 69,
+    "media_score_rotina": 75.3
+  },
+  {
+    "usuario_id": 30,
+    "nome": "Usuario 30",
+    "email": "usuario30@healthhelp.com",
+    "genero": "F",
+    "dt_nascimento": "1960-07-01",
+    "altura_cm": 160,
+    "peso_kg": 70,
+    "media_score_rotina": 76.0
+  }
+]
